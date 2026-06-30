@@ -1,0 +1,56 @@
+category,value,percentage
+Company,Mercado Libre,3.0
+Company,Accenture,2.0
+Company,Muttdata,1.0
+Company,itti,0.5
+Company,Massachusetts Institute of Technology,0.5
+Company,Crombie,0.5
+Company,Universidad Nacional de San Martín,0.5
+Company,NTT DATA Europe & Latam,0.5
+Company,Accenture Argentina,0.5
+Location,Greater Buenos Aires,42.0
+Location,"Cordoba, Argentina Metropolitan Area",4.0
+Location,Bogotá D.C. Metropolitan Area,2.0
+Location,Mexico City Metropolitan Area,2.0
+Location,Greater La Plata,2.0
+Location,Greater Rosario,2.0
+Location,Santiago Metropolitan Area,2.0
+Location,Greater São Paulo Area,1.0
+Location,Greater Madrid Metropolitan Area,1.0
+Company size,"10,001+ employees",18.0
+Company size,51-200 employees,13.0
+Company size,11-50 employees,10.0
+Company size,"1,001-5,000 employees",9.0
+Company size,2-10 employees,9.0
+Company size,201-500 employees,7.0
+Company size,"501-1,000 employees",7.0
+Company size,"5,001-10,000 employees",4.0
+Company size,0-1 employees,1.0
+Seniority,Entry,40.0
+Seniority,Senior,33.0
+Seniority,Manager,3.0
+Seniority,Owner,3.0
+Seniority,Director,2.0
+Seniority,CXO,2.0
+Seniority,Training,2.0
+Seniority,Partner,0.5
+Seniority,VP,0.5
+Job title,Data Engineer,10.0
+Job title,Data Scientist,5.0
+Job title,Data Analyst,5.0
+Job title,Software Engineer,3.0
+Job title,Artificial Intelligence Engineer,2.0
+Job title,Data Specialist,2.0
+Job title,Professor,2.0
+Job title,Co-Founder,2.0
+Job title,Founder,2.0
+Industry,IT Services and IT Consulting,18.0
+Industry,Software Development,12.0
+Industry,Data Infrastructure and Analytics,12.0
+Industry,"Technology, Information and Internet",12.0
+Industry,Human Resources Services,4.0
+Industry,Financial Services,4.0
+Industry,IT System Data Services,3.0
+Industry,Higher Education,2.0
+Industry,Business Consulting and Services,2.0
+Industry,Education,2.0
