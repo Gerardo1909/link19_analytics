@@ -8,3 +8,15 @@ dependencies = [
     "pandas",
     "openpyxl",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+markers = [
+    "integration: tests that read the real xlsx from data/raw (slow)",
+]
